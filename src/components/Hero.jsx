@@ -188,14 +188,14 @@ const Hero = () => {
                 Rafael <b>Billy</b>
               </h1>
               <p className="md:w-[40%]">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo c
+                Computer Science Stduents who has high enthusiasm in the field
+                of Web Development. My goal is to continue learning and
+                exploring the latest technologies, consistently improving my
+                skills over time.
               </p>
 
               <a
-                href=""
+                href="https://drive.google.com/file/d/1yfyUs3CO_HY-_sAJ5xQ0eaNH1pX1qpAt/view?usp=sharing"
                 className="text-lg relative z-[999] px-6 py-2 rounded-md bg-second border-t-2 border-l-2 shadow-xl shadow-[#D011CC]/10 border-white w-fit"
               >
                 See My Resume
