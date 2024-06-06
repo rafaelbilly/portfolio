@@ -56,7 +56,7 @@ const PortfolioCard = ({
               className="flex gap-2 items-center"
               rel="noopener noreferrer"
             >
-              Check Code
+              Check
               <GoArrowUpRight className="text-lg" />
             </a>
           )}
@@ -81,11 +81,7 @@ PortfolioCard.defaultProps = {
 const Portfolio = () => {
   return (
     <section id="portfolio" className="bg-primary w-full h-fit pb-20">
-      <div
-        className="wrapper grid grid-cols-1 md:grid-cols-3 gap-10 justify-items-stretch"
-        data-aos="zoom-out"
-        data-aos-duration="1500"
-      >
+      <div className="wrapper grid grid-cols-1 md:grid-cols-3 gap-10 justify-items-stretch">
         {portfolioData.map((item, index) => (
           <>
             {(index === 3 || index === 5) && <div className="col-span-1"></div>}

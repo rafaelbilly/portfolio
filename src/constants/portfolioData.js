@@ -12,7 +12,7 @@ export const portfolioData = [
     description:
       "Created a website to facilitate customers in making room reservations at the Grand Atma Hotel",
     technologies: ["react", "bootstrap"],
-    link: "https://github.com/rafaelbilly/GD12_C_11297.git",
+    link: "https://grandatma.vercel.app/",
   },
   {
     id: 2,
@@ -42,6 +42,6 @@ export const portfolioData = [
     description:
       "Created a website and a management system for Atma Kitchen. The website allows customers to order cakes and drinks, while the management system enables the Admin, Operations Manager, and Owner to efficiently manage product data, raw materials, orders, and employees.",
     technologies: ["react", "laravel", "tailwind", "mysql"],
-    link: "",
+    link: "https://github.com/Allv16/AtmaBakery.git",
   },
 ];

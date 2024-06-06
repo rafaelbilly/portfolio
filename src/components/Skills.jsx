@@ -10,7 +10,7 @@ const Skills = () => {
           <PiShootingStar className="text-xl" />
           <h1>Rafael Billy</h1>
         </div>
-        <h1 className="text-4xl" data-aos="fade-down" data-aos-duration="1500">
+        <h1 className="text-4xl" data-aos="fade-up" data-aos-duration="1500">
           My <b>Skills & Portfolio</b>
         </h1>
       </div>

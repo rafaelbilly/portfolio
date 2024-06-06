@@ -188,7 +188,7 @@ const Hero = () => {
                 Rafael <b>Billy</b>
               </h1>
               <p className="md:w-[40%]">
-                Computer Science Stduents who has high enthusiasm in the field
+                Computer Science Students who has high enthusiasm in the field
                 of Web Development. My goal is to continue learning and
                 exploring the latest technologies, consistently improving my
                 skills over time.
