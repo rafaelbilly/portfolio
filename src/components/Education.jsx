@@ -28,7 +28,7 @@ const Education = () => {
               <div className="flex flex-col md:flex-row md:justify-between gap-2 md:gap-0 md:items-center">
                 <h1 className="font-semibold text-2xl">
                   {" "}
-                  Universitas Atma Jaya, Yogayakarta
+                  Atma Jaya Yogyakarta University
                 </h1>
                 <p>2021 - Now</p>
               </div>
