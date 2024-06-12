@@ -56,7 +56,7 @@ const PortfolioCard = ({
               className="flex gap-2 items-center"
               rel="noopener noreferrer"
             >
-              Check
+              Visit
               <GoArrowUpRight className="text-lg" />
             </a>
           )}

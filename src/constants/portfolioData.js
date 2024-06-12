@@ -42,6 +42,6 @@ export const portfolioData = [
     description:
       "Created a website and a management system for Atma Kitchen. The website allows customers to order cakes and drinks, while the management system enables the Admin, Operations Manager, and Owner to efficiently manage product data, raw materials, orders, and employees.",
     technologies: ["react", "laravel", "tailwind", "mysql"],
-    link: "https://github.com/Allv16/AtmaBakery.git",
+    link: "https://atmakitchen.vercel.app/",
   },
 ];
